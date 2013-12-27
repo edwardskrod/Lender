@@ -10,8 +10,11 @@ Lend.me will be written in JavaScript using Node.js.  We will use the noSQL data
 Team NotOur(Seg)Fault! is made up of the following students at FSU:
 
 Edward Skrod: www.linkedin.com/in/edwardskrod/
+
 Connor Black: www.linkedin.com/pub/connor-black/49/206/150
+
 Damien King-Acevedo
+
 Alex Windelberg
 
 In addition to the application's SRS, this repository contains the final PowerPoint presentation on the Lend.me application.  The PowerPoint is also available as a .pdf file.
